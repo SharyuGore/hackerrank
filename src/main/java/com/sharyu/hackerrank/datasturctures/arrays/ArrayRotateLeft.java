@@ -1,4 +1,4 @@
-package com.sharyu.hackerrank.arrays;
+package com.sharyu.hackerrank.datasturctures.arrays;
 
 import java.util.ArrayList;
 import java.util.List;
